@@ -1,0 +1,30 @@
+.svg-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 80px;
+  }
+  
+  .svg {
+    width: 170px;
+    height: 200px;
+  }
+  
+  .texto2 {
+    margin-bottom: 16px;
+  }
+  
+  .botao {
+    margin-top: 68px;
+  }
+
+.texto {
+    color: var(--light-gray, #6C7072);
+    font-family: Poppins;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.5px;
+    margin-bottom: 16px;
+}

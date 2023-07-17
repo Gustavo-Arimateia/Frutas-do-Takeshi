@@ -1,0 +1,27 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 16px;
+    margin-bottom: 24px;
+  }
+  
+  .header svg {
+    width: 32px;
+    height: 32px;
+  }
+  
+  .Label {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    padding: 16px 16px 7px;
+  }
+  
+  .Botao {
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 250px;
+  }
+  
